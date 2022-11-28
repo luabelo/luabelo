@@ -1,6 +1,6 @@
 <h2>Hello, World ✨</h2>
 
-- 👋🏻Meu nome é **Luana Belo** e tenho 19 anos!
+- 👋🏻Meu nome é **Luana** e tenho 19 anos!
 - 🎓Cursando o 2º período de **Sistemas de Informação**
 - 👩🏻‍💻Atualmente estou aprendendo **Java/Python**
 
