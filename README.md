@@ -1,7 +1,7 @@
 <h2>Hello, World ✨</h2>
 
 - 👋🏻Meu nome é **Luana** e tenho 19 anos!
-- 🎓Cursando o 2º período de **Sistemas de Informação**
+- 🎓Cursando o 3º período de **Sistemas de Informação**
 - 👩🏻‍💻Atualmente estou aprendendo **Java/Python**
 
 <h4 align="left">Linguagens e ferramentas:</h4>
