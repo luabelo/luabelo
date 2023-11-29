@@ -13,10 +13,10 @@
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" alt="apache spark" width="40" height="40"/>
   </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
   </a>
-    <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
       <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="databricks" width="40" height="40"/>
   </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
