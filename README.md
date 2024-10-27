@@ -2,7 +2,7 @@
 
 - 👋🏻Meu nome é **Luana** e tenho 20 anos!
 - 🎓Cursando o 6º período de **Sistemas de Informação**
-- 💼**Estágiaria de Dados** no Grupo Recovery
+- 💼**Analista de Dados Jr** no Grupo Recovery
 - 👩🏻‍💻Atualmente estou trabalhando com **SQL e Python**
 
 <h4 align="left">Linguagens e ferramentas:</h4>
