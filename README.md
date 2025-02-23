@@ -1,7 +1,7 @@
 <h2>Hello, World ✨</h2>
 
-- 👋🏻Meu nome é **Luana** e tenho 20 anos!
-- 🎓Cursando o 6º período de **Sistemas de Informação**
+- 👋🏻Meu nome é **Luana** e tenho 21 anos!
+- 🎓Cursando o 7º período de **Sistemas de Informação**
 - 💼**Analista de Dados Jr** no Grupo Recovery
 - 👩🏻‍💻Atualmente estou trabalhando com **SQL e Python**
 
